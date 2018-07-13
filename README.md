@@ -4,5 +4,5 @@
 ### 0.2:
 * Tutustuttu HTML:n lomakkeiden perusteisiin
 ### 0.3: 
-* [Sekvenssikaavio](0_3_sekvenssikaavio)
-* [Sekvenssikaavion koodi](0_3_sekvenssikaavion_koodi)
+* [Sekvenssikaavio]0_3_sekvenssikaavio.png)
+* [Sekvenssikaavion koodi](0_3_websequencediagrams_code)
