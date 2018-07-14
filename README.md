@@ -13,3 +13,5 @@
 * [Sekvenssikaavio](0_5_sekvenssikaavio.png)
 * [Sekvenssikaavion koodi](0_5_websequencediagrams_code)
 ### 0.6:
+* [Sekvenssikaavio](0_6_sekvenssikaavio.png)
+* [Sekvenssikaavion koodi](0_6_websequencediagrams_code)
